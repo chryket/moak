@@ -4,6 +4,7 @@ Michael Oak Waldorf School has committed to actively creating and transforming a
 
 - encouraging multiculturalism
 - promoting non-racism
+- test bullet
 - promoting non-sexism
 - promoting acceptance of all religions
 - promoting acceptance of sexual orientation
