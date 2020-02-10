@@ -64,11 +64,11 @@ Michael Oak Waldorf School is based on a foundation of strong parent involvement
 
 It is the active involvement of parents that make the community of Michael Oak so special.
 
-The school is governed by an active [Board of Trustees](#Board-of-Trustees) comprising both parents and teachers. 
+The school is governed by an active [Board of Trustees](/about/working_groups#board-of-trustees) comprising both parents and teachers. 
 
 The Board acts in accordance with the terms of the Notarial Trust Deed of the Michael Oak School Association.
 
-The [College of Teachers](#College-of-Teachers) is responsible for the application of the curriculum and the day-to-day to running of the school.
+The [College of Teachers](/about/working_groups#college-of-teachers) is responsible for the application of the curriculum and the day-to-day to running of the school.
 
 Different sub-committees and working groups fulfil vital roles and functions that keep the school working as a vibrant collective. Parents are encouraged to become involved.
 
@@ -81,4 +81,4 @@ Michael Oak is a school run by its parents and teachers. It is the active involv
 
 Different sub-committees and working groups fulfil vital roles and functions that keep the school working as a vibrant collective. Parents are encouraged to become involved.
 
-You can find out more about the various working groups [here](/working_groups)
+You can find out more about the various working groups [here](/about/working_groups)
