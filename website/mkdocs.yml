@@ -1,11 +1,6 @@
 site_name: Education For Humans
 nav:
   - Home: index.md
-  - About: 
-    - about.md
-    - about/policies.md
-    - about/working_groups.md
-    - Diversity: about/diversity.md
   - Curriculum: 
     - Waldorf Education: curriculum/waldorfed.md
     - Nursery School: curriculum/nursery.md
@@ -19,5 +14,5 @@ nav:
   - FAQ: faq.md
   - Contact: contact.md
 theme: 
-  name: spacelab #flatly #flatly #nature #spacelab flatly yeti slate
+  name: spacelab #flatly #nature #spacelab flatly yeti slate
 

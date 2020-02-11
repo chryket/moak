@@ -4,7 +4,7 @@
 
 ** Michael Oak Waldorf School seeks to awaken the whole child towards creative responsibility, developing confident, balanced individuals empowered to work with the challenges of today and tomorrow.**
 
-Our campus in the heart of Kenilworth, Cape Town was established in 1962. With around 430 pupils at Nursery, Primary and High school, it is one of 16 Waldorf Schools in South Africa and more than 1000 worldwide.
+Our campus in the heart of Kenilworth, Cape Town was established in 1962 With around 430 pupils at Nursery, Primary and High school, it is one of 16 Waldorf Schools in South Africa and more than 1000 worldwide.
 
 Beginning in the [Nursery](/curriculum/nursery), in a welcoming and beautiful environment, the children’s days are filled with artistic and practical work, imaginative play, fairy tales, music, circle games and healthy outdoor play. 
 
