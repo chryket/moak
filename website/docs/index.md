@@ -1,6 +1,9 @@
 # Education For The World Of Tomorrow
 
-![slide1](images/slide1_1.jpg)
+ <video width="920" height="720" controls>
+  <source src="videos/YouthDay.mp4" type="video/mp4">
+ </video> 
+
 
 ** Michael Oak Waldorf School seeks to awaken the whole child towards creative responsibility, developing confident, balanced individuals empowered to work with the challenges of today and tomorrow.**
 
