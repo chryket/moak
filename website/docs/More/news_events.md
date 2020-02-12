@@ -1,9 +1,6 @@
-# The Leaflet  - Read [Online](leaflet_pdf/Leaflet_01_2020_email_.pdf) 
+# News and Events 
 
-or pop in an iframe
-
-<iframe src='/leaflet_pdf/Leaflet_01_2020_email_.pdf' height='150' width='800'> 
-</iframe>
+from the latest leaflet
 
 ## Welcome Back!
 

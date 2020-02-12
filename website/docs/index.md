@@ -1,4 +1,6 @@
-# Education For The World Of Tomorrow
+# Home
+
+Take a look at our video to see why Michael Oak is a place where children love to learn and teachers love to teach.
 
  <video width="920" height="720" controls>
   <source src="videos/YouthDay.mp4" type="video/mp4">

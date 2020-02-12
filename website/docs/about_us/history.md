@@ -1,4 +1,4 @@
-# About Our School
+# History
 
 The school occupies a hectare of rambling grounds in quiet surroundings, close to Kenilworth station in Cape Town.
 

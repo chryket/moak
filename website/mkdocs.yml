@@ -1,18 +1,5 @@
-site_name: Education For Humans
-nav:
-  - Home: index.md
-  - Curriculum: 
-    - Waldorf Education: curriculum/waldorfed.md
-    - Nursery School: curriculum/nursery.md
-    - Primary School: curriculum/primary.md
-    - High School: curriculum/highschool.md
-  - News&Events: 
-    - Whats On: events.md
-    - Leaflet: leaflet/latest.md
-    - Community: community.md
-  - Admissions: admissions.md
-  - FAQ: faq.md
-  - Contact: contact.md
+site_name: Michael Oak Waldorf School
+site_description: Education For The World Of Tomorrow
 theme: 
-  name: spacelab #flatly #nature #spacelab flatly yeti slate
+  name: flatly #nature #spacelab flatly yeti slate
 

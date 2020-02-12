@@ -4,7 +4,7 @@ ___
 
 ## Running on your own pc
 
-Avoid breaking your system python by using a virtual environment.
+Avoid breaking the system python by using a virtual environment.
 
 You can use any of 
 - python [venv](https://docs.python.org/3.6/library/venv.html#module-venv) with the standard library.
@@ -33,6 +33,8 @@ git [link](https://git-lfs.github.com/) for working with large files.
 [requirements](https://docs.netlify.com/large-media/requirements-and-limitations/#requirements) to use with netlify.
 
 netlify cli required for large storage docs [here](https://cli.netlify.com)
+
+
 
 
 

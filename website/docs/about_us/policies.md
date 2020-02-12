@@ -2,7 +2,7 @@
 
 Michael Oak school policies are put together through an extensive discussion and consultation process amongst teachers, Trustees, links groups and the broader parent community.  CLICK on any PDF below to download the policy.
 
-## [Bullying Policy](/policies_pdf/BullyingPolicy.pdf)
+## [Bullying Policy](/largefiles/policies_pdf/BullyingPolicy.pdf)
 
 GUIDING FRAMEWORK AND AIMS
 
