@@ -2,4 +2,5 @@ site_name: Michael Oak Waldorf School
 site_description: Education For The World Of Tomorrow
 theme: 
   name: flatly #nature #spacelab flatly yeti slate
-
+  custom_dir: moak_theme/
+  

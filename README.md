@@ -13,6 +13,7 @@ You can use any of
 
 
 Python version 3.7.4
+
 MkDocs version 1.0.4
 
 ## Getting started
@@ -32,7 +33,7 @@ git [link](https://git-lfs.github.com/) for working with large files.
 
 [requirements](https://docs.netlify.com/large-media/requirements-and-limitations/#requirements) to use with netlify.
 
-netlify cli required for large storage docs [here](https://cli.netlify.com)
+netlify [cli](https://cli.netlify.com) required for large storage docs
 
 
 

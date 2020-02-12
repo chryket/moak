@@ -2,22 +2,24 @@
 
 Take a look at our video to see why Michael Oak is a place where children love to learn and teachers love to teach.
 
- <video width="920" height="720" controls>
+ <video width="310" height="240" controls>
   <source src="videos/YouthDay.mp4" type="video/mp4">
  </video> 
 
 
+
+
 ** Michael Oak Waldorf School seeks to awaken the whole child towards creative responsibility, developing confident, balanced individuals empowered to work with the challenges of today and tomorrow.**
 
-Our campus in the heart of Kenilworth, Cape Town was established in 1962 With around 430 pupils at Nursery, Primary and High school, it is one of 16 Waldorf Schools in South Africa and more than 1000 worldwide.
+Our campus in the heart of Kenilworth, Cape Town was established in 1962 With around 430 pupils at Nursery, Primary and High school, it is one of 16 Waldorf -  in South Africa and more than 1000 worldwide.
 
-Beginning in the [Nursery](/curriculum/nursery), in a welcoming and beautiful environment, the children’s days are filled with artistic and practical work, imaginative play, fairy tales, music, circle games and healthy outdoor play. 
+Beginning in the [Nursery](schools/nursery), in a welcoming and beautiful environment, the children’s days are filled with artistic and practical work, imaginative play, fairy tales, music, circle games and healthy outdoor play. 
 
 Although there is no formal intellectual work at this stage, the children acquire numerous skills that provide a firm foundation for on-going development.
 
 ![slide2](images/excavation.jpg)
 
-The [Primary School](curriculum/primary) and [High School](curriculum/highschool) draw on an internationally successful [Waldorf](/curriculum/waldorfed) curriculum designed to meet the child’s emotional, spiritual and intellectual needs at each age.
+The [Primary School](schools/primary) and [High School](schools/highschool) draw on an internationally successful [Waldorf](/schools/waldorfed) curriculum designed to meet the child’s emotional, spiritual and intellectual needs at each age.
 
  Based on a profound understanding of human nature, the curriculum covers all the required subjects and is adapted to our African context.
 
@@ -28,5 +30,5 @@ The [Primary School](curriculum/primary) and [High School](curriculum/highschool
  *We honour the different spiritual backgrounds of our students, while also nurturing interconnectedness and community.*
  
  
- Art, drama, music, craft and movement are all valued aspects of the curriculum. Our sport includes: basketball, TAG, table tennis, volleyball, dance and tennis.
+ Art, drama, music, craft and movement are all valued aspects of the school. Our sport includes: basketball, TAG, table tennis, volleyball, dance and tennis.
 
