@@ -1,4 +1,4 @@
-# History
+## History
 
 The school occupies a hectare of rambling grounds in quiet surroundings, close to Kenilworth station in Cape Town.
 
@@ -13,6 +13,27 @@ School assemblies were held in the present reception foyer. Bricks were laid by 
  More classrooms were followed by a school hall, then a neighbour's house was bought for the kindergarten.
  
  **The rest has been a story of continuing growth and development, where parents, staff and pupils form a vibrant and strong school community, a school where teachers really love to teach.**
+
+
+
+
+
+## Governance
+
+Michael Oak Waldorf School is based on a foundation of strong parent involvement and teachers who are passionate about educating children.
+
+It is the active involvement of parents that make the community of Michael Oak so special.
+
+The school is governed by an active [Board of Trustees](/about/working_groups#board-of-trustees) comprising both parents and teachers. 
+
+The Board acts in accordance with the terms of the Notarial Trust Deed of the Michael Oak School Association.
+
+The [College of Teachers](/about/working_groups#college-of-teachers) is responsible for the application of the curriculum and the day-to-day to running of the school.
+
+Different sub-committees and working groups fulfil vital roles and functions that keep the school working as a vibrant collective. Parents are encouraged to become involved.
+
+
+Michael Oak is a Waldorf school of excellence, offering inspiration and leadership in Education.
 
 Michael Oak is a registered independent school and a member of the Independent Schools Association in South Africa (ISASA).
 
@@ -56,29 +77,3 @@ Michael Oak Waldorf School seeks to awaken the whole child towards creative resp
 - We work cooperatively with colleagues using consensus management within an ethos of mutual respect, individual growth and communal enrichment.
 - We recognise the value of our rich diversity and we nurture it.
 - We care for our environment and support ecological sustainability.
-
-
-## Governance
-
-Michael Oak Waldorf School is based on a foundation of strong parent involvement and teachers who are passionate about educating children.
-
-It is the active involvement of parents that make the community of Michael Oak so special.
-
-The school is governed by an active [Board of Trustees](/about/working_groups#board-of-trustees) comprising both parents and teachers. 
-
-The Board acts in accordance with the terms of the Notarial Trust Deed of the Michael Oak School Association.
-
-The [College of Teachers](/about/working_groups#college-of-teachers) is responsible for the application of the curriculum and the day-to-day to running of the school.
-
-Different sub-committees and working groups fulfil vital roles and functions that keep the school working as a vibrant collective. Parents are encouraged to become involved.
-
-
-Michael Oak is a Waldorf school of excellence, offering inspiration and leadership in Education.
-
-## Working Groups
-
-Michael Oak is a school run by its parents and teachers. It is the active involvement of parents that make the community of Michael Oak so special. The school is governed by a board of Trustees comprising parents and teachers. The College of Teachers is responsible for the application of the curriculum and the day-to-day to running of the school.
-
-Different sub-committees and working groups fulfil vital roles and functions that keep the school working as a vibrant collective. Parents are encouraged to become involved.
-
-You can find out more about the various working groups [here](/about/working_groups)

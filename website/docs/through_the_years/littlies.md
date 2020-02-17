@@ -1,4 +1,4 @@
-# Nursery School
+## Nursery School
 
 In this secure and intimate environment, the children learn about themselves and their world. Their days are filled with artistic and practical work , imaginative play and fairy tales, puppetry and music, circle games and healthy outdoor play.
 

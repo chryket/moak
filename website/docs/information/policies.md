@@ -15,9 +15,9 @@ GUIDING FRAMEWORK AND AIMS
 7. We  judge  the  behaviour,  not  the  learner;  avoiding  blaming  or  shaming  of  any  parties involved,  while  still  acknowledging that  they  must  be  held  accountable for  their  actions. We aim to offer appropriate support to all parties involved.  
 8. Parents are expected to follow the procedure of the school and not to take matters into their own hands.
 
-Read the [Bullying Policy](/policies_pdf/BullyingPolicy.pdf)
+Read the [Bullying Policy](/largefiles/policies_pdf/BullyingPolicy.pdf)
 
-##[Code of Conduct For Parents](/policies_pdf/CodeofConduct-Parents.pdf)
+##[Code of Conduct For Parents](/largefiles/policies_pdf/CodeofConduct-Parents.pdf)
 
 It is an acknowledged fact that the ultimate responsibility for a learner’s discipline and behaviour rests with his/her parents or guardians.
 School’s expectations of parents’ support are:
@@ -47,29 +47,29 @@ Please discuss the schools’ behaviour code with your children.
 21. Parents may not admonish or confront other children on the school grounds.
 
 
-## [Code of Conduct For Teachers](/policies_pdf/CodeofConduct-Teachers.pdf)
+## [Code of Conduct For Teachers](/largefiles/policies_pdf/CodeofConduct-Teachers.pdf)
 
 Extract
 
 > We as teachers are committed to the ethos and practice of Waldorf Education. We are willing to engage in training and enrichment that will actively uphold, promote and maintain the school rules and established procedures of the school,and recognise our accountability to the College of Teachers and Board of Trustees.
 
-You can read the full document [here](/policies_pdf/CodeofConduct-Teachers.pdf)
+You can read the full document [here](/largefiles/policies_pdf/CodeofConduct-Teachers.pdf)
 
-## [Communication Guidelines 2019](/policies_pdf/CommunicationGuidelines2019.pdf)
+## [Communication Guidelines 2019](/largefiles/policies_pdf/CommunicationGuidelines2019.pdf)
 
-## [Email Policy](/policies_pdf/EmailPolicy.pdf)
-## [Extended Holidays for Students](/policies_pdf/ExtendedHolidaysforStudents.pdf)
-## [Food Policy](/policies_pdf/FoodPolicy.pdf)
-## [Guidelines for the use of Electronic Media](/policies_pdf/GuidelinesfortheuseofElectronicMedia.pdf)
-## [MO High Learner School Code of Conduct and Discipline Procedure](/policies_pdf/MOHighLearnerSchoolCodeofConductandDisciplineProcedure.pdf)
-## [Market Policy](/policies_pdf/MarketPolicy.pdf)
-## [PG & KG Clothing Policy](/policies_pdf/PG&KGClothingPolicy.pdf)
-## [PG & KG Food Policy](/policies_pdf/PG&KGFoodPolicy.pdf)
-## [PG & KG TV and Social Media Policy](/policies_pdf/PG&KGTVandSocialMediaPolicy.pdf)
-## [Parent and Links Handbook](/policies_pdf/ParentandLinksHandbook.pdf)
-## [Primary School Dress Code 2020](/policies_pdf/PrimarySchoolDressCode2020.pdf)
-## [Procedure for parents bringing a concern](/policies_pdf/Procedureforparentsbringingaconcern.pdf)
-## [Roles and Responsibilities of Faculties Feb 2019](/policies_pdf/RolesandResponsibilitiesofFacultiesFeb2019.pdf)
-## [Roles and Responsibilities of the College of Teachers Jan 2019](/policies_pdf/RolesandResponsibilitiesoftheCollegeofTeachersJan2019.pdf)
-## [Social Media Guidelines for Students](/policies_pdf/SocialMediaGuidelinesforStudents.pdf)
-## [Teachers & Links Code of Understanding](/policies_pdf/Teachers&LinksCodeofUnderstanding.pdf)
+## [Email Policy](/largefiles/policies_pdf/EmailPolicy.pdf)
+## [Extended Holidays for Students](/largefiles/policies_pdf/ExtendedHolidaysforStudents.pdf)
+## [Food Policy](/largefiles/policies_pdf/FoodPolicy.pdf)
+## [Guidelines for the use of Electronic Media](/largefiles/policies_pdf/GuidelinesfortheuseofElectronicMedia.pdf)
+## [MO High Learner School Code of Conduct and Discipline Procedure](/largefiles/policies_pdf/MOHighLearnerSchoolCodeofConductandDisciplineProcedure.pdf)
+## [Market Policy](/largefiles/policies_pdf/MarketPolicy.pdf)
+## [PG & KG Clothing Policy](/largefiles/policies_pdf/PG&KGClothingPolicy.pdf)
+## [PG & KG Food Policy](/largefiles/policies_pdf/PG&KGFoodPolicy.pdf)
+## [PG & KG TV and Social Media Policy](/largefiles/policies_pdf/PG&KGTVandSocialMediaPolicy.pdf)
+## [Parent and Links Handbook](/largefiles/policies_pdf/ParentandLinksHandbook.pdf)
+## [Primary School Dress Code 2020](/largefiles/policies_pdf/PrimarySchoolDressCode2020.pdf)
+## [Procedure for parents bringing a concern](/largefiles/policies_pdf/Procedureforparentsbringingaconcern.pdf)
+## [Roles and Responsibilities of Faculties Feb 2019](/largefiles/policies_pdf/RolesandResponsibilitiesofFacultiesFeb2019.pdf)
+## [Roles and Responsibilities of the College of Teachers Jan 2019](/largefiles/policies_pdf/RolesandResponsibilitiesoftheCollegeofTeachersJan2019.pdf)
+## [Social Media Guidelines for Students](/largefiles/policies_pdf/SocialMediaGuidelinesforStudents.pdf)
+## [Teachers & Links Code of Understanding](/largefiles/policies_pdf/Teachers&LinksCodeofUnderstanding.pdf)
