@@ -1,10 +1,7 @@
 mkdocs==1.0.4
-mkdocs-alabaster==0.8.0
-mkdocs-bootstrap-tables-plugin==0.1.0
-mkdocs-bootstrap4==0.1.2
-mkdocs-bootswatch==1.0
+mkdocs-bootstrap4
+mkdocs-bootswatch
 mkdocs-git-committers-plugin==0.1.8
-mkdocs-material==4.6.0
-mkdocs-minify-plugin==0.2.1
-mkdocs-moonstone==0.1.7
-mkdocs-nature==0.3.1
+mkdocs-material
+mkdocs-minify-plugin
+
