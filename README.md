@@ -35,6 +35,14 @@ git [link](https://git-lfs.github.com/) for working with large files.
 
 netlify [cli](https://cli.netlify.com) required for large storage docs
 
+## Temp doc links
+
+[jinja](https://jinja.palletsprojects.com/en/2.11.x/templates/#list-of-control-structures)
+
+stackbit [themes](https://www.stackbit.com/uniform-themes/)
+stackbit -[docs](https://docs.stackbit.com/uniform/stackbit-yaml/)
+
+
 
 
 
