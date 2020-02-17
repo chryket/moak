@@ -1,7 +1,5 @@
 mkdocs==1.0.4
 mkdocs-bootstrap4
 mkdocs-bootswatch
-mkdocs-git-committers-plugin==0.1.8
-mkdocs-material
-mkdocs-minify-plugin
+
 
