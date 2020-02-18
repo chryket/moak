@@ -1,29 +1,40 @@
-# Home
+# Coming Soon
 
-Take a look at our video to see why Michael Oak is a place where children love to learn and teachers love to teach.
+landing page here
 
- video way slow
+## pic1
 
-** Michael Oak Waldorf School seeks to awaken the whole child towards creative responsibility, developing confident, balanced individuals empowered to work with the challenges of today and tomorrow.**
+![beanbags](images/beanbags.jpg)
 
-Our campus in the heart of Kenilworth, Cape Town was established in 1962 With around 430 pupils at Nursery, Primary and High school, it is one of 16 Waldorf -  in South Africa and more than 1000 worldwide.
+## pic2
 
-Beginning in the [Nursery](schools/nursery), in a welcoming and beautiful environment, the children’s days are filled with artistic and practical work, imaginative play, fairy tales, music, circle games and healthy outdoor play. 
+![excavation](images/excavation.jpg)
 
-Although there is no formal intellectual work at this stage, the children acquire numerous skills that provide a firm foundation for on-going development.
+## pic 3
 
-![slide2](images/excavation.jpg)
+![painting](images/PGpainting.jpg) 
 
-The [Primary School](schools/primary) and [High School](schools/highschool) draw on an internationally successful [Waldorf](/schools/waldorfed) curriculum designed to meet the child’s emotional, spiritual and intellectual needs at each age.
 
- Based on a profound understanding of human nature, the curriculum covers all the required subjects and is adapted to our African context.
+### also videos and forms
 
- The “main lesson” system allows each subject to be explored in depth over several weeks, including practical activities such as Grade 3 growing their own vegetable garden and Grade 10 doing survey work as an introduction to trigonometry. 
+video needs to be optimised
 
- The [High School](#High-School) provides challenges and exposure to business, civic and social responsibilities, many imaginative and creative tasks and unique opportunities for personal growth and the pursuit of academic excellence, acquiring all the skills required for tertiary education. 
+## Next steps
 
- *We honour the different spiritual backgrounds of our students, while also nurturing interconnectedness and community.*
- 
- 
- Art, drama, music, craft and movement are all valued aspects of the school. Our sport includes: basketball, TAG, table tennis, volleyball, dance and tennis.
+
+- take a look at the content and think about how you might want to change the structure and names of your folders. 
+
+- get a local copy working
+
+- create some files, write some text, create some folders
+
+
+
+
+
+
+
+
+
+
 
