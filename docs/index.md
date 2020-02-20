@@ -20,7 +20,19 @@
 
 - create some files, write some text, create some folders
 
-- you might also want to notice the relationship between the side menu, the two hashes(HTML Heading 2 Next steps) above and the address in your browser bar `https://www.trudat.co.za/#next-steps`
+- you might also want to notice the relationship between
+
+the side menu 
+
+![sidebar.png](images/sidebar.png) 
+
+the text to create it.
+
+ ![markdown.png](images/markdown.png) 
+
+the address in your browser bar 
+
+`https://www.trudat.co.za/#next-steps`
 
 lists are very useful:
 
