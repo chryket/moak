@@ -24,11 +24,11 @@
 
 the side menu 
 
-![sidebar.png](/images/sidebar.png) 
+![sidebar](images/sidebar.png) 
 
 the text to create it.
 
-![markdown.png](images/markdown.png) 
+![markdown](images/markdown.png) 
 
 the address in your browser bar 
 
