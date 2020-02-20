@@ -163,9 +163,7 @@ smaller header for subtitles or sections.
 
 Horizontal Rule
 ---------------
-
 just put three or more *'s or -'s on a line:
-
 ----------------
 
 or you can use single spaces between then, like this:
@@ -187,15 +185,15 @@ Images
 
 To include an image, just put a "!" in front of a text link:
 
-![alternate text](http://someurl/image.gif)
-
+![alternate text](/images/insecure.png)
+ 
 
 The "alternate text" will show up if the browser can't load the image.
 
 You can also use a title if you want, like this:
 
-![tiny arrow](http://greg.vario.us/img/extlink.png "tiny arrow")
-
+![alt text](/images/insecure.png "replaced cos pic")
+ 
 
 
 Escapes
