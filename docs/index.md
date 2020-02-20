@@ -1,23 +1,15 @@
-# Coming Soon
 
-landing page here
-
-## pic1
 
 ![beanbags](images/beanbags.jpg)
 
-## pic2
+## Coming Soon
+
+> landing page here
 
 ![excavation](images/excavation.jpg)
 
-## pic 3
-
 ![painting](images/PGpainting.jpg) 
 
-
-### also videos and forms
-
-video needs to be optimised
 
 ## Next steps
 
@@ -27,6 +19,19 @@ video needs to be optimised
 - get a local copy working
 
 - create some files, write some text, create some folders
+
+- you might also want to notice the relationship between the side menu, the two hashes(HTML Heading 2 Next steps) above and the address in your browser bar `https://www.trudat.co.za/#next-steps`
+
+lists are very useful:
+
+- this is a link to the [home](#) button
+- this is a link to the [Next steps](/#next-steps) section of the home page
+
+## Next Next steps
+
+once all of the content is in place we can talk about the landing page and start working on the look and feel.
+
+
 
 
 
