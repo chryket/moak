@@ -20,19 +20,25 @@
 
 - create some files, write some text, create some folders
 
-- you might also want to notice the relationship between
+- you might also want to 
 
-the side menu 
+### notice 
+
+the relationship between
+
+### the side menu 
 
 ![sidebar](images/sidebar.png) 
 
-the text to create it.
+### the text to create it.
 
 ![markdown](images/markdown.png) 
 
-the address in your browser bar 
+### the address in your browser bar 
 
-`https://www.trudat.co.za/#next-steps`
+Normally at the top of the screen 
+
+```https://www.trudat.co.za/#next-steps```
 
 lists are very useful:
 
