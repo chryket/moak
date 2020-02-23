@@ -1,5 +1,3 @@
 site_name: Michael Oak Waldorf School
 site_description: Education For The World Of Tomorrow
-theme: slate  #slate  yeti
-  
-  
+theme: bootstrap4  #slate  yeti
