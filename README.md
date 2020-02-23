@@ -1,46 +1,29 @@
 # moak
-Moak web evolution and testing
+Moak web evolution and testing. 
 ___
 
-## Running on your own pc
+## Basic Requirements - workshop 2
 
-Avoid breaking the system python by using a virtual environment.
+- be able to open a terminal(`ctl-alt-T`) or command prompt(windows 10 search for `powershell`).
+- be able to change directories. `cd mydirectory`
+- be able to create, rename,edit and delete files and folders
+- be able to take a screenshot or copy paste and save error messages
 
-You can use any of 
-- python [venv](https://docs.python.org/3.6/library/venv.html#module-venv) with the standard library.
-- [Conda](https://docs.conda.io/en/latest/) - for just what you need or
-- [Anaconda](https://www.anaconda.com/) - Everything
-
-
-Python version 3.7.4
-
-MkDocs version 1.0.4
-
-## Getting started
-
-`mkdocs new website`
-
-`cd website`
-
-Then replace docs folders with current docs folder
-
-`mkdocs serve`
+If you can do all of these carry on ...
 
 
-## large file storage
+## step 1
 
-git [link](https://git-lfs.github.com/) for working with large files.
+- install a python [environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) on your computer. [Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) or [just conda](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html) seems to work quite nicely across different platforms but use what works for you. 
 
-[requirements](https://docs.netlify.com/large-media/requirements-and-limitations/#requirements) to use with netlify.
+- follow the mkdocs [installation]((https://www.mkdocs.org/#installation)) instructions.
 
-netlify [cli](https://cli.netlify.com) required for large storage docs
+## step 2
 
-## Temp doc links
 
-[jinja](https://jinja.palletsprojects.com/en/2.11.x/templates/#list-of-control-structures)
 
-stackbit [themes](https://www.stackbit.com/uniform-themes/)
-stackbit -[docs](https://docs.stackbit.com/uniform/stackbit-yaml/)
+
+
 
 
 

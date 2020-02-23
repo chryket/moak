@@ -1,4 +1,4 @@
-# Help
+## Help
 
 The start of documentation for school website
 
@@ -12,41 +12,17 @@ Markdown flavours
 - [commonmark](https://agea.github.io/tutorial.md/)
 - [github]()
 
+### Quick Markdown Syntax Guide
 
-Quick Markdown Syntax Guide
-===========================
-
-* <http://greg.vario.us/doc/markdown.txt> - Plain text
-* <http://greg.vario.us/doc/markdown.text> - Markdown applied
-
-
-This guide shows you how to use Markdown instead of HTML when
-writing posts or comments.
-
-Markdown is way easier to use than HTML.  (But you can still use HTML at the
-same time if you really want to and you know how.)
-
-Just write in the comment box *the same way it's shown in this file*, it's
-really that simple.
-
-(See bottom for more info about Markdown itself.)
-
-Links
+#### Links
 -----
-
-For a URL or email, just write it like this:
-
-<http://someurl>
-
-<somebbob@example.com>
-
 
 To use text for the link, write it [like this](http://someurl).
 
 You can add a *title* (which shows up under the cursor), 
 [like this](http://someurl "this title shows up when you hover").
 
-Reference Links
+#### Reference Links
 ---------------
 
 You can also put the [link URL][1] below the current paragraph like [this][2].
@@ -61,11 +37,10 @@ Here the text "link URL" gets linked to "http://url", and the lines showing
 Or you can use a [shortcut][] reference, which links the text "shortcut" 
 to the link named "[shortcut]" on the next paragraph.
 
-   [shortcut]: http://goes/with/the/link/name/text
-   
+   [shortcut]: http://goes/with/the/link/name/text 
 
 
-Text
+#### Text
 ----
 
 Use * or _ to emphasize things:
@@ -77,15 +52,14 @@ Use * or _ to emphasize things:
 ***this is bold and italic***  and ___so is this___
 
 
-Just write paragraphs like in a text file and they will display how you would
-expect.  A blank line separates paragraphs.
+A blank line separates paragraphs.
 
 So this is a new paragraph. But any text on adjacent lines
 will all end up 
 in the same paragraph.
 
 
-Blockquotes
+#### Blockquotes
 ----------
 
 > Use the > character in front of a line, *just like in email*.
@@ -99,7 +73,7 @@ part of the blockquote, even without the > character in front.
 To end the blockquote, just put a blank line before the following paragraph.
 
 
-Preformatted Text
+#### Preformatted Text
 ----------------
 
 If you want some text to show up exactly as you write it, without Markdown
@@ -126,7 +100,7 @@ by *fewer than* 4 spaces.
 As a shortcut you can use backquotes to do the same thing while inside
 a normal pargraph.  `This won't be *italic* or **bold** at all.`
 
-Lists
+#### Lists
 --------
 
 * an asterisk starts an unordered list
@@ -145,47 +119,12 @@ To start an ordered list, write this:
     * here i'm back to the second level
         
         
-Headers
----------
-
-This is a huge header
-==================
-
-this is a smaller header
-------------------
-
-Just put 1 or more dashes or equals signs (--- or ===) below the title.
-
-You might use the huge header at the very top of your text for a title or
-something (except weblog posts usually already have a title), and use the
-smaller header for subtitles or sections.
-
-
-Horizontal Rule
----------------
-just put three or more *'s or -'s on a line:
-----------------
-
-or you can use single spaces between then, like this:
-
-* * *
-
-or 
-
-- - - - - - - 
-
-Make sure you have a blank line above the dashes, though, or else:
-
-you will get a header
---- 
-
-
-Images
+#### Images
 -----------
 
 To include an image, just put a "!" in front of a text link:
 
-![alternate text](/images/insecure.png)
+![link to external image](https://imgs.xkcd.com/comics/academia_vs_business.png)
  
 
 The "alternate text" will show up if the browser can't load the image.
@@ -196,7 +135,7 @@ You can also use a title if you want, like this:
  
 
 
-Escapes
+#### Escapes
 ---------
 
 What if you want to just show asterisks, not italics?
@@ -209,64 +148,11 @@ The backslashes will disappear and leave the asterisks.
 You can do the same with any of the characters that have a special meaning
 for Markdown.
 
-
-More Headers
-----------
-
-More ways of doing headers:
-
-# this is a huge header #
-## this is a smaller header ##
-### this is even smaller ###
-#### more small ####
-##### even smaller #####
-###### smallest still: `<h6>` header
-
-You can use up to 6 `#` characters at the beginning of the line.  
-(You can optionally put them on the end, too, and they will disappear.)
-
-   
-
-HTML crap
--------------
-
-Don't worry about special HTML characters. I can write an ampersand & a 
-less-than sign, and they show up as I intend them to:  3 < 4.
-
-(You can still write `&amp;` (& character) and `&lt;` (<) or `&gt;` (>) if you
-want.  or ignore what I just said.)
-
-
-About
----------
-
-This text file shows you how to use [Markdown][] instead of crappy HTML when
-writing posts or comments.
-   
-   [Markdown]: http://daringfireball.net/projects/markdown/syntax
-
-Markdown is an easier way of making HTML pages from text, rather than having to
-know HTML.
-
-* See this file as it looks when [rendered with Markdown][].
-* See the [original text file][].
-
-   [rendered with Markdown]: http://greg.vario.us/doc/markdown.text
-   [original text file]: http://greg.vario.us/doc/markdown.txt
-
-Thanks
+#### Thanks
 ---------
 
 Thanks to John Gruber and Aaron Swartz for creating Markdown.
 
-Fin
----------
 
-No rights reserved, do with this what you like.
-Written by Greg Schueler, <greg@vario.us>
 
-## Contributing
- - mail
- - git
- - other  
 
