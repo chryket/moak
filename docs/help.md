@@ -124,14 +124,14 @@ To start an ordered list, write this:
 
 To include an image, just put a "!" in front of a text link:
 
-![link to external image](https://imgs.xkcd.com/comics/academia_vs_business.png)
+![link to image](/images/maypole.jpg)
  
 
 The "alternate text" will show up if the browser can't load the image.
 
 You can also use a title if you want, like this:
 
-![alt text](/images/insecure.png "replaced cos pic")
+![alt text](/images/future.png "replaced cos pic")
  
 
 

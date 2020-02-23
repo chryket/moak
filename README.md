@@ -2,7 +2,7 @@
 Moak web evolution and testing. 
 ___
 
-## Basic Requirements - workshop 2
+## Basic Requirements 
 
 - be able to open a terminal(`ctl-alt-T`) or command prompt(windows 10 search for `powershell`).
 - be able to change directories. `cd mydirectory`
