@@ -22,7 +22,7 @@ You dont have to understand the code after this, you just need to know how to ma
 
 ## step 2
 
-if you are still here have a look at the [wiki][https://github.com/chryket/moak/wiki]
+if you are still here have a look at the [wiki](https://github.com/chryket/moak/wiki)
 
 
 
