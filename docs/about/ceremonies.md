@@ -1,6 +1,6 @@
 ## ceremonies of reverence
 
-- pancake evening
+- shrove tuesday
 - dragon festival
 - festival of lights
 - harvest festival
