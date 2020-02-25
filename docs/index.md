@@ -1,9 +1,8 @@
-![beanbags](images/beanbags.jpg)
 ## Coming Soon
 
-> landing page here
 
-![excavation](images/excavation.jpg)
+<iframe src="https://drive.google.com/file/d/18iUzm49mVLj_E1Xw6aldWDShUE5iDHh7/preview" width="640" height="480"></iframe>
+
 ![painting](images/PGpainting.jpg) 
 
 ## Next steps
@@ -11,6 +10,8 @@
 - get a local copy working
 - create some files, write some text, create some folders
 - you might also want to 
+
+![excavation](images/excavation.jpg)
 
 ### notice 
 the relationship between
@@ -29,6 +30,7 @@ Normally at the top of the screen
 
 ## Next Next steps
 Once all of the content is in place we can talk about the landing page and start working on the look and feel.
+
 
 
 
