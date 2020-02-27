@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7902800a-7350-4f3b-8611-906b0846438f/deploy-status)](https://app.netlify.com/sites/content-audit/deploys)
+
 ## Coming Soon
 
 In the meantime please do read this weeks leaflet
