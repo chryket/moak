@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 Visit [Why Waldorf Works](https://www.whywaldorfworks.org) for a great FAQ section addressing many of the frequent questions on Waldorf education.
 
@@ -8,9 +8,9 @@ Our Questions and Answers section below provides some Michael Oak context.
 
 ___
 
-> Translating lines of abstract symbols into reality is a complex and stressful challenge for young minds. The Waldorf curriculum does not rush children into reading too early. For the first two grades there is a greater focus on the spoken word through verse and narrative, on the alphabet and writing.
+> *Translating lines of abstract symbols into reality is a complex and stressful challenge for young minds. The Waldorf curriculum does not rush children into reading too early. For the first two grades there is a greater focus on the spoken word through verse and narrative, on the alphabet and writing.*
 
-> Letters of the alphabet are learned first as capitals. Humans perceived, pictured, and then developed signs and written symbols. The children follow that path. We discover the shapes of the letters: M in a series of mountain peaks, V in the valleys between, S in a sinuous snake. The first printed readers are introduced during the second year. Around the end of third grade reading skills are on par with standard school curricula.
+> *Letters of the alphabet are learned first as capitals. Humans perceived, pictured, and then developed signs and written symbols. The children follow that path. We discover the shapes of the letters: M in a series of mountain peaks, V in the valleys between, S in a sinuous snake. The first printed readers are introduced during the second year. Around the end of third grade reading skills are on par with standard school curricula.*
 
 ---
 

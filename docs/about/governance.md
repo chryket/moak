@@ -1,44 +1,3 @@
-** Michael Oak Waldorf School seeks to awaken the whole child towards creative responsibility, developing confident, balanced individuals empowered to work with the challenges of today and tomorrow.**
-
-Our campus in the heart of Kenilworth, Cape Town was established in 1962 With around 430 pupils at Nursery, Primary and High school, it is one of 16 Waldorf -  in South Africa and more than 1000 worldwide.
-
-Beginning in the [Nursery](schools/nursery), in a welcoming and beautiful environment, the children’s days are filled with artistic and practical work, imaginative play, fairy tales, music, circle games and healthy outdoor play. 
-
-Although there is no formal intellectual work at this stage, the children acquire numerous skills that provide a firm foundation for on-going development.
-
-The [Primary School](schools/primary) and [High School](schools/highschool) draw on an internationally successful [Waldorf](/schools/waldorfed) curriculum designed to meet the child’s emotional, spiritual and intellectual needs at each age.
-
- Based on a profound understanding of human nature, the curriculum covers all the required subjects and is adapted to our African context.
-
- The “main lesson” system allows each subject to be explored in depth over several weeks, including practical activities such as Grade 3 growing their own vegetable garden and Grade 10 doing survey work as an introduction to trigonometry. 
-
- The [High School](#High-School) provides challenges and exposure to business, civic and social responsibilities, many imaginative and creative tasks and unique opportunities for personal growth and the pursuit of academic excellence, acquiring all the skills required for tertiary education. 
-
- *We honour the different spiritual backgrounds of our students, while also nurturing interconnectedness and community.*
- 
- 
- Art, drama, music, craft and movement are all valued aspects of the school. Our sport includes: basketball, TAG, table tennis, volleyball, dance and tennis.
-
-## History
-
-The school occupies a hectare of rambling grounds in quiet surroundings, close to Kenilworth station in Cape Town.
-
-The school is founded on the principles of Steiner education, which at its core focuses teaching around the needs of the growing child rather than the needs of a dictated curriculum.
-
-Michael Oak was started in 1962 in a house off Rosmead Avenue. 
-
-The Old House was bought by parents on an auction and provided the first classrooms for the 15 pupils. 
-
-School assemblies were held in the present reception foyer. Bricks were laid by parents and the first classrooms completed with their hard work.
-
- More classrooms were followed by a school hall, then a neighbour's house was bought for the kindergarten.
- 
- **The rest has been a story of continuing growth and development, where parents, staff and pupils form a vibrant and strong school community, a school where teachers really love to teach.**
-
-
-
-
-
 ## Governance
 
 Michael Oak Waldorf School is based on a foundation of strong parent involvement and teachers who are passionate about educating children.
@@ -51,18 +10,11 @@ The Board acts in accordance with the terms of the Notarial Trust Deed of the Mi
 
 The [College of Teachers](/about/working_groups#college-of-teachers) is responsible for the application of the curriculum and the day-to-day to running of the school.
 
-Different sub-committees and working groups fulfil vital roles and functions that keep the school working as a vibrant collective. Parents are encouraged to become involved.
+Different sub-committees and working groups fulfill vital roles and functions that keep the school working as a vibrant collective. Parents are encouraged to become involved.
 
+The school is governed by a Board of Trustees comprising parents and teachers. The College of Teachers serves the pedagogical needs of the school and essentially fulfills the role of school principal.
 
-Michael Oak is a Waldorf school of excellence, offering inspiration and leadership in Education.
-
-Michael Oak is a registered independent school and a member of the Independent Schools Association in South Africa (ISASA).
-
-The school is governed by a Board of Trustees comprising parents and teachers. The College of Teachers serves the pedagogical needs of the school and essentially fulfils the role of school principal.
-
-There are sixteen Waldorf schools in South Africa registered with the S.A. Federation of Waldorf Schools, and well over 1000 of these schools throughout the world, with many opening every year.
-
-### Mission 
+## Mission 
 
 Michael Oak Waldorf School seeks to awaken the whole child towards creative responsibility, developing confident, balanced individuals empowered to work with the challenges of today and tomorrow.
 
@@ -74,9 +26,9 @@ Michael Oak Waldorf School seeks to awaken the whole child towards creative resp
 - Work carefully with the Waldorf curriculum in a way that meets the special opportunities of each age.
 - Encourage depth of thought and academic excellence.
 - Support the developing art of Waldorf education within the school and in the wider community.
-- Provide a community centre for cultural enrichment and continuing education for life.
+- Provide a community center for cultural enrichment and continuing education for life.
 
-### Our Goals
+## Our Goals
 - To provide an education for boys and girls that embraces every race, colour, creed and class bringing together a healthy cross-section of South African society.
 - To maintain a warm and supportive learning environment.
 - To educate each individual child in a holistic and caring way to realise his or her own full inborn potential.
@@ -87,9 +39,9 @@ Michael Oak Waldorf School seeks to awaken the whole child towards creative resp
     - ability to forge relationships in a spirit of reconciliation and co-operation;
     - reverence for life, love of learning, faith in the future.
 - To develop further the art of education within the school and in the wider community.
-- To provide a community centre for cultural activities and continuing education for life.
+- To provide a community center for cultural activities and continuing education for life.
 
-### Our Values
+## Our Values
 
 - We value the unique contribution of every human being.
 - We are inspired by the qualities of goodness, beauty and truth.
