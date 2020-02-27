@@ -16,9 +16,13 @@ If you can do all of these carry on ...
 
 - install a python [environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) on your computer. [Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) or [just conda](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html) seems to work quite nicely across different platforms but use what works for you. 
 
+You dont have to understand the code after this, you just need to know how to make it work for you
+
 - follow the mkdocs [installation]((https://www.mkdocs.org/#installation)) instructions.
 
 ## step 2
+
+if you are still here have a look at the [wiki](https://github.com/chryket/moak/wiki)
 
 
 
