@@ -2,7 +2,8 @@ site_name: Michael Oak Waldorf School
 site_description: Education For The World Of Tomorrow
 theme: 
   name: mkdocs
-  nav_style: dark
+  custom_dir: 'moak_theme/'
+  nav_style: dark 
 
 
 
