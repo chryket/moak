@@ -1,4 +1,5 @@
 img: https://www.michaeloak.org.za/addons/shared_addons/themes/base_moak_2/img/slides/slide2.jpg
+intro: seven years to stitch and sew
 
 ## Primary School 
 
