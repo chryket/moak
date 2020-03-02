@@ -1,0 +1,18 @@
+{% if page.meta.source %}
+<div class="source-links">
+{% for filename in page.meta.source %}
+    <span class="label label-primary">{{ filename }}</span>
+{% endfor %}
+</div>
+{% endif %}
+
+
+{% if page.meta.img %}
+<div class="motop_container">
+ 	 <img src={{ page.meta.img }} alt="img">
+	  	<div class="mocontent">
+	    	<p>{{ page.meta.intro}}</p>
+  	    </div>
+</div>
+{% endif %}
+{{ page.content }}

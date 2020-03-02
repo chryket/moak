@@ -1,6 +1,22 @@
 
 {% extends "base.html" %}
 
+{% block styles %}
+	<link href="{{ 'css/bootstrap.min.css'|url }}" rel="stylesheet">
+    <link href="{{ 'css/font-awesome.min.css'|url }}" rel="stylesheet">
+    <link href="{{ 'css/base.css'|url }}" rel="stylesheet">
+	<link href="{{ 'css/moak.css'|url }}" rel="stylesheet">
+
+{% endblock %}
+
+{%- block libs %}
+     <script src="{{ 'js/jquery-1.10.2.min.js'|url }}" defer></script>
+     <script src="{{ 'js/bootstrap.min.js'|url }}" defer></script>
+     <script src="https://kit.fontawesome.com/11696a8a3d.js" crossorigin="anonymous"></script>
+     <script>var base_url = '{{ base_url }}';</script>
+
+{% endblock %}
+
 {% block content %}
     <div class="col-md-12" role="main">{% include "content.html" %}</div>
 {% endblock %}

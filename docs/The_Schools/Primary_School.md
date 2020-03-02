@@ -1,5 +1,7 @@
+img: https://www.michaeloak.org.za/addons/shared_addons/themes/base_moak_2/img/slides/slide2.jpg
+
 ## Primary School 
-https://www.michaeloak.org.za/addons/shared_addons/themes/base_moak_2/img/slides/slide2.jpg
+
 
 ### Grade 1 - ?
 - Getting a buddy

@@ -1,0 +1,20 @@
+.motop_container {
+  position: relative;
+  max-width: auto; /* Maximum width */
+  margin: 0 auto; /* Center it */
+}
+
+.motop_container .img {vertical-align: middle;
+position: }
+
+.motop_container .mocontent {
+  position: absolute; /* Position the background text */
+  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+  background:  white; /* Fallback color */
+  background: rgba(0, 0, 139,0.4); /* Black background with 0.5 opacity */
+  color: white; /* Grey text */
+  width: auto; /* Full width */
+  padding: 10px; /* Some padding */
+  text-align: center;
+}
+

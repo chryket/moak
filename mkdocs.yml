@@ -1,5 +1,8 @@
 site_name: Coming Soon
+site_url: https://www.trudat.co.za/
+repo_url: https://github.com/chryket/moak.git
 site_description: Education For Humans
+site_author: various
 theme: 
   name: mkdocs
   custom_dir: 'moak_theme/'
