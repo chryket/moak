@@ -1,4 +1,7 @@
 img: https://www.michaeloak.org.za/addons/shared_addons/themes/base_moak_2/img/slides/slide2.jpg
+intro: The teacher is challenged to enliven classroom activities with movement, colour, poetry and living imagery. In the lessons there is a balance between listening, speaking and doing, between humour and seriousness, taking in, transforming and giving out.
+
+
 
 ## Primary School 
 

@@ -7,14 +7,17 @@
 .motop_container .img {vertical-align: middle;
 position: }
 
-.motop_container .mocontent {
+.mointro {
   position: absolute; /* Position the background text */
-  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+  bottom: 20px; /* At the bottom. Use top:0 to append it to the top */
+  left: 20px;
   background:  white; /* Fallback color */
   background: rgba(0, 0, 139,0.4); /* Black background with 0.5 opacity */
   color: white; /* Grey text */
-  width: auto; /* Full width */
-  padding: 10px; /* Some padding */
+  width: auto;  Full width 
+  padding: 20px; /* Some padding */
   text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
