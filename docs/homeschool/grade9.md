@@ -3,7 +3,7 @@
 
 ### ENGLISH
 
-CREATIVE WRITING EXERCISE:
+#### CREATIVE WRITING EXERCISE 
 Letter to a magazine “agony” column
 ___
 
@@ -28,7 +28,7 @@ A popular method for getting advice for one’s problems is to write a letter to
 
 I have sent you an example of such a letter to an American “agony aunt” called Amy, where someone’s problem is outlined and Amy’s advice given.
 
-![agony](/imgs/grade9/english/agony_aunt.jpg)
+![agony](/imgs/class9/english/agony_aunt.jpg)
 
 #### Assignment
 
@@ -40,20 +40,41 @@ I have sent you an example of such a letter to an American “agony aunt” call
 Hold onto this piece for later assessment and class sharing.*
 
 
-### MATHEMATICS: Special products and factorising; more complex first degree equations and problem-solving; irrational numbers; scientific notation; consolidation of Class 8 Algebra; the Cartesian co-ordinate system; introduction to concept of infinity; projective generation of forms; duality; conic sections (circle, ellipse, parabola, hyperbola) as related to infinity; properties of quadrilaterals; parallel lines; congruency of triangles (leading to formal geometry).
+___
 
-### HISTORY: History of Nationalism. The French and American Revolutions. Biographies of historical personalities in context. Nationalism in SA.
+#### Spelling worksheet
 
-### GEOGRAPHY: Geology and geomorphology. The forces shaping the earth tectonic and denudational forces.. Economic relations in Africa.
+![Screenshot from 2020-03-27 11-43-16](https://user-images.githubusercontent.com/25202975/77743119-40675680-7020-11ea-8003-5c93cb8449b4.png)
 
-### PHYSICS: Electricity and magnetism.
+![Screenshot from 2020-03-27 11-41-26](https://user-images.githubusercontent.com/25202975/77742958-fbdbbb00-701f-11ea-9de4-fcfcf341f6c3.png)
 
-### CHEMISTRY: Organic chemistry.
 
-### BIOLOGY: Anatomy and physiology of blood circulation and respiration.
 
-### SECOND AND THIRD LANGUAGES : Revision of grammar. Study setwork. Recitation and developing use of idiomatic expressions.
+### MATHEMATICS
 
-### ARTS: History : Comparisons of differences between Greek and Roman, Northern and Southern Renaissance - the Fathers of modern Art. Practical: More black and white and basic exercises in free form colour compositions. Clay modelling. Concave/convex forms. Eurythmy, singing and music.
+Special products and factorising; more complex first degree equations and problem-solving; irrational numbers; scientific notation; consolidation of Class 8 Algebra; the Cartesian co-ordinate system; introduction to concept of infinity; projective generation of forms; duality; conic sections (circle, ellipse, parabola, hyperbola) as related to infinity; properties of quadrilaterals; parallel lines; congruency of triangles (leading to formal geometry).
 
-### TECHNOLOGY: Woodwork : more advanced constructions. Metalwork : Iron forging. Basket weaving: more advanced constructions.
+### HISTORY
+
+History of Nationalism. The French and American Revolutions. Biographies of historical personalities in context. Nationalism in SA.
+
+### GEOGRAPHY
+Geology and geomorphology. The forces shaping the earth tectonic and denudational forces.. Economic relations in Africa.
+
+### PHYSICS
+Electricity and magnetism.
+
+### CHEMISTRY
+Organic chemistry.
+
+### BIOLOGY
+Anatomy and physiology of blood circulation and respiration.
+
+### SECOND AND THIRD LANGUAGES
+Revision of grammar. Study setwork. Recitation and developing use of idiomatic expressions.
+
+### ARTS
+ History : Comparisons of differences between Greek and Roman, Northern and Southern Renaissance - the Fathers of modern Art. Practical: More black and white and basic exercises in free form colour compositions. Clay modelling. Concave/convex forms. Eurythmy, singing and music.
+
+### TECHNOLOGY
+Woodwork : more advanced constructions. Metalwork : Iron forging. Basket weaving: more advanced constructions.

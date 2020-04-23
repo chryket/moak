@@ -4,10 +4,10 @@ slides: []
 extra:
     version: 0.0.1
 
-## This week
+## Test Emergency Schooling Site
 
-Please see the home schooling section for this weeks work
-
+Email , cross platform software issues, bandwith,  etc , etc, etc all pose different challenges to interactive classroom solutions that are required in the time of corona. 
+We thought it might be interesting to explore some other possibilities. 
 
 ## How to get started
 
@@ -16,3 +16,8 @@ Look in the top right. you'll see edit on github.
 1. Click it
 2. Edit it
 3. Save it
+
+You are done. 
+
+### other sites
+
