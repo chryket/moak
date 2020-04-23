@@ -4,12 +4,15 @@ slides: []
 extra:
     version: 0.0.1
 
-## Test Emergency Schooling Site
+## Test Emergency Site
 
 Email , cross platform software issues, bandwith,  etc , etc, etc all pose different challenges to interactive classroom solutions that are required in the time of corona. 
+
 We thought it might be interesting to explore some other possibilities. 
 
-## How to get started
+## OPTION A
+
+How to get started
 
 Look in the top right. you'll see edit on github. 
 
@@ -17,7 +20,7 @@ Look in the top right. you'll see edit on github.
 2. Edit it
 3. Save it
 
-You are done. 
+You are done.
 
-### other sites
+### OPTION B
 
