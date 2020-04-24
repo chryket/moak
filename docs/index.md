@@ -4,7 +4,7 @@ slides: []
 extra:
     version: 0.0.1
 
-## Test Emergency Site
+## Test Site
 
 Email , cross platform software issues, bandwith,  etc , etc, etc all pose different challenges to interactive classroom solutions that are required in the time of corona. 
 
@@ -22,5 +22,5 @@ Look in the top right. you'll see edit on github.
 
 You are done.
 
-### OPTION B
+
 
